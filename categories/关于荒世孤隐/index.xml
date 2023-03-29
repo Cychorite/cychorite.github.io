@@ -5,7 +5,26 @@
     <link>https://cychorite.github.io/categories/%E5%85%B3%E4%BA%8E%E8%8D%92%E4%B8%96%E5%AD%A4%E9%9A%90/</link>
     <description>Recent content in 关于荒世孤隐 on 荒世孤隐_Cychorite</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://cychorite.github.io/categories/%E5%85%B3%E4%BA%8E%E8%8D%92%E4%B8%96%E5%AD%A4%E9%9A%90/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cychorite.github.io/categories/%E5%85%B3%E4%BA%8E%E8%8D%92%E4%B8%96%E5%AD%A4%E9%9A%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>停止更新的三个月里，一些经历、见闻和思考</title>
+      <link>https://cychorite.github.io/posts/202303/%E5%81%9C%E6%AD%A2%E6%9B%B4%E6%96%B0%E7%9A%84%E4%B8%89%E4%B8%AA%E6%9C%88%E9%87%8C-%E4%B8%80%E4%BA%9B%E7%BB%8F%E5%8E%86-%E8%A7%81%E9%97%BB%E5%92%8C%E6%80%9D%E8%80%83/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cychorite.github.io/posts/202303/%E5%81%9C%E6%AD%A2%E6%9B%B4%E6%96%B0%E7%9A%84%E4%B8%89%E4%B8%AA%E6%9C%88%E9%87%8C-%E4%B8%80%E4%BA%9B%E7%BB%8F%E5%8E%86-%E8%A7%81%E9%97%BB%E5%92%8C%E6%80%9D%E8%80%83/</guid>
+      <description>距离上一篇文章更新，已经过去了三个多月。
+停止更新的原因，并非因为才思枯竭，也并非因为受到威胁，只是一次死机掉电后难以预料的硬盘损坏。硬盘损坏后，我丢失了所有关于本网站的认证凭据（账号密码、PGP 私钥、SSH 私钥），也包括 Hugo 工程仓库、大量的写作草稿和灵感。
+由于我使用了 Qubes OS 1 避免追踪、取证和隐私泄露，且硬盘完全加密，在尝试了一个多月的数据恢复后，我还是无奈选择放弃曾经使用的 Cyber Anchorite 名称，以及对应的域名：cyber-anchorite.github.io，重新部署环境，还原项目，迁移文章，并使用 Cychorite 名称和 cychorite.github.io 替代之。
+其实在确定数据无法恢复的那一刻，我曾想过放弃本网站的写作，因为我实在不自信这样的写作能否能够影响到更多的人，能给更多人带来启发。只是在停止写作的这三个月来，社会随着疫情结束开始逐步恢复活力，但社会和互联网上的怪象却并未伴随疫情结束而消退，甚至在其他方面（如人工智能、房地产、性别对立、审查制度等）愈演愈烈。互联网上的人戾气越来越重，网络暴力现象越来越严重，对立越来越极端。在一些人的视角中，似乎这个世界没有一点令他们满意的地方，而更多的人却信以为真。
+经历了被 ChatGPT 相关新闻轰炸的两个月，见证了越来越多反智、短视的言论，越来越多炒作和炮制的新闻、越来越多的刻板印象和仇恨，我终于还是难以忍受自己内心的正义感，在一次次温和的科普和劝解失败后，选择重新搭建起这个网站，以笔为矛，选择通过记录这荒谬的世界，咀嚼来自这个荒谬世界的每一句话、每一种刻板印象，以怒其不争的切身痛苦试图唤醒那些受到当前社会环境毒害的，迷失了方向和意义感的，在自我怀疑中不断挣扎的，沉默的大多数人。
+在恢复网站内容时，我重新阅读了一下三个月前的文字，自我反思一下，文笔的确太过尖锐。尖锐的文字不是坏事，但现在的我会觉得，更重要的是保持冷静和温和，我不想让自己成为所谓愤青，我只是想如实记录这个荒谬的世界，这个在 7*24 小时的资本化和利己主义熏陶下丧失了幸福感和人生意义的世界。
+完全重建网站之后，我会对硬盘进行定期的镜像备份，避免硬盘的物理损坏和文件系统损坏对数据（尤其是认证凭据）造成的影响，同时会将存储所有凭证的数据库加密匿名备份到云端。以后有机会，我会在 互联网隐居之路 中详细介绍我所使用的技术，以供有类似需求和想法的人参考。
+因为是初次进行这样的写作，可能文笔较为生涩，空有一番正义感却没办法以恰当的方式表达出来。我会不断练习自己的表达能力，不断精简文笔，尽可能写出更有针对性和时代意义的文字。等到我对自己的文章基本满意时，我会考虑将本网站一些较为通俗易懂的文章转载到国内社交媒体和平台（前提是能保证匿名性），让这些写作背后的心意能传达给更多人。
+  https://www.qubes-os.org/ &amp;#x21a9;&amp;#xfe0e;
+   </description>
+    </item>
+    
     <item>
       <title>关于我</title>
       <link>https://cychorite.github.io/about/</link>
